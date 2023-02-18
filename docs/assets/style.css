@@ -1,0 +1,65 @@
+/*
+Texto que imita código
+*/
+
+
+
+body{
+    background-color: #141414;
+}
+
+.body{
+    display: flex;
+}
+
+.welcome{
+    display: flex;
+}
+
+.bemVindo{
+    background-color: #4A2E8D;
+}
+
+.nome{
+    background-color: #4A2E8D;
+    
+}
+
+.text{
+    font-family: 'Hammersmith One', sans-serif;;
+}
+
+.caixaTexto{
+    background-color: #1F1F20;
+    color: #FFFFFF;
+    border-radius: 9px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.def{
+    font-family: 'Cascadia Code', sans-serif;
+    color: #929968;
+}
+
+.nomeFuncao{
+    font-family: 'Cascadia Code', sans-serif;
+    color: #FF9A3E;
+}
+
+.funcaoInt{
+    font-family: 'Cascadia Code', sans-serif;
+    color: #77B2CB;
+}
+
+.textoCont{
+    font-family: 'Cascadia Code', sans-serif;
+    color: #F5FF82
+}
+
+.doisPontos, .parenteses{
+    font-family: 'Cascadia Code', sans-serif;
+    color: #FFFFFF;
+}
