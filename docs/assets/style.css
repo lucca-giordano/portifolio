@@ -18,11 +18,12 @@ body{
 
 .bemVindo{
     background-color: #4A2E8D;
+    border-right: 30px;
 }
 
 .nome{
     background-color: #4A2E8D;
-    
+
 }
 
 .text{
